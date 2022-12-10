@@ -1,0 +1,26 @@
+body {
+    background-color: #B9E0FF;
+}
+
+hr {
+    border-style: dotted none none;
+    border-color: #8D9EFF;
+    border-width: 5px;
+    height: 0px;
+    width: 5%;
+}
+
+h1 {
+    color: #8D72E1;
+    text-align: center;
+    text-decoration-line: overline underline;
+    text-decoration-color: #6C4AB6;
+    text-shadow: 2px 2px 5px #8D9EFF;
+}
+
+h3 {
+     color: #8D72E1;
+     text-decoration-line: underline;
+     text-decoration-color: #6C4AB6;
+     text-shadow: 2px 2px 5px #8D9EFF;
+}
