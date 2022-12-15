@@ -26,7 +26,7 @@ p {
 
 .bottom-container {
     background-color: #66BFBF;
-    height: 200px;
+    padding: 50px 0 20px;
 }
 
 .top-cloud {
@@ -69,12 +69,6 @@ h3 {
     width: 300px;
 }
 
-.footer-link {
-    position: relative;
-    top: 50px;
-    color: #11999E;
-}
-
 .skill-row {
     margin: 100px auto;
     width: 50%;
@@ -100,11 +94,26 @@ hr {
     height: 0px;
 }
 
+.contact-me {
+    width: 30%;
+    margin: 40px auto 60px;
+}
+
+a {
+    color: #11999E;
+    font-family: 'Montserrat', sans-serif;
+    margin: 10px 20px;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #eaf6f6;
+}
+
 #name {
-    color: white;
-    margin: 0px;
-    position: relative;
-    top: 100px;
+    color: #eaf6f6;
+    font-size: 0.75rem;
+    padding: 20px 0;
 }
 
 .btn {
@@ -117,7 +126,7 @@ hr {
     -webkit-border-radius: 28;
     -moz-border-radius: 28;
     border-radius: 8px;
-    font-family: Arial;
+    font-family: 'Montserrat', sans-serif;
     color: #ffffff;
     font-size: 20px;
     padding: 10px 20px 10px 20px;
